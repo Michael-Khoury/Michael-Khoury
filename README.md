@@ -26,7 +26,7 @@ I’m a third-year Computer Engineering student at Memorial University of Newfou
 
 ## 🚀 Projects  
 
-### [Car UI and Proximity Sensor](https://github.com/username/car-ui-proximity)  
+### [Car UI and Proximity Sensor](https://github.com/Michael-Khoury/Car-Proximity-Sensor)  
 - Designed a Python-based UI mimicking modern car features with an advanced proximity sensor system using Arduino.  
 - Enhanced driver safety by integrating real-time sensor data visualization.
 
@@ -36,7 +36,7 @@ I’m a third-year Computer Engineering student at Memorial University of Newfou
 - Collaborated with a research team to improve accuracy for medical imaging datasets.  
 > _Note: This project is based on professional work and cannot be shared publicly due to confidentiality._
 
-### [Python Attendance Tracker](https://github.com/username/attendance-tracker)  
+### [Python Attendance Tracker](https://github.com/Michael-Khoury/Python-Attendance-Tracker)  
 - Automated administrative workflows with Python using pandas and openpyxl, saving time and ensuring data integrity.  
 - Created a robust attendance tracking system integrated with Excel.  
 
