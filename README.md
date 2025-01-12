@@ -14,10 +14,10 @@ I’m a third-year Computer Engineering student at Memorial University of Newfou
 
 ## 🛠 Skills  
 **Languages & Frameworks**:  
-- Python, C++, C, JavaScript, HTML/CSS, MATLAB, SQL, Assembly  
+- Python, C++, C, C#, VHDL, JavaScript, HTML/CSS, MATLAB, SQL, Assembly  
 
 **Tools & Libraries**:  
-- Pandas, PyTorch, MLFlow, Conda, openpyxl, Git/GitHub, Zapier, YAML, JSON  
+- Pandas, PyTorch, NumPy, Matplotlib, MLFlow, Conda, openpyxl, Git/GitHub, Zapier, YAML, JSON, ShellScripting, OpenAI, Bash, .NET  
 
 **Specialized Knowledge**:  
 - Machine Learning, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Workflow Automation  
