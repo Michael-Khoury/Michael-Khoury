@@ -1,5 +1,5 @@
 # Hi, I'm Michael Khoury 👋  
-### Aspiring Software Developer | Machine Learning Enthusiast  
+### Aspiring Computer Engineer | AI/Machine Learning Enthusiast  
 
 🌍 Based in St. John’s, NL, Canada  
 📧 [mkhoury@mun.ca](mailto:mkhoury@mun.ca)  
@@ -8,7 +8,7 @@
 ---
 
 ## About Me  
-I’m a third-year Computer Engineering student at Memorial University of Newfoundland, passionate about solving complex problems through code and innovation. With experience spanning machine learning, AI automation, and software development, I aim to leverage technology to create impactful solutions.
+I’m a fourth-year Computer Engineering student at Memorial University of Newfoundland, passionate about solving complex problems through code and innovation. With experience spanning machine learning, AI automation, and software development, I aim to leverage technology to create impactful solutions.
 
 ---
 
@@ -17,10 +17,11 @@ I’m a third-year Computer Engineering student at Memorial University of Newfou
 - Python, C++, C, C#, VHDL, JavaScript, HTML/CSS, MATLAB, SQL, Assembly  
 
 **Tools & Libraries**:  
-- Pandas, PyTorch, NumPy, Matplotlib, MLFlow, Conda, openpyxl, Git/GitHub, Zapier, YAML, JSON, ShellScripting, OpenAI, Bash, .NET  
+- Unity, Pandas, PyTorch, NumPy, Matplotlib, MLFlow, Conda, openpyxl, Git/GitHub, Zapier, YAML, JSON, ShellScripting, OpenAI, Bash, .NET  
 
 **Specialized Knowledge**:  
-- Machine Learning, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Workflow Automation  
+- Machine Learning, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Workflow Automation, Unity Game Development  
+- **Unity Experience**: GameObject/Prefab architecture, Canvas UI System, Animator, 2D Physics
 
 ---
 
