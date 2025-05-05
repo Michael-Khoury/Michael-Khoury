@@ -37,8 +37,9 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 - Collaborated with a research team to improve accuracy for medical imaging datasets.  
 > _Note: This project is based on professional work and cannot be shared publicly due to confidentiality._
 
-### [Python Attendance Tracker](https://github.com/Michael-Khoury/Python-Attendance-Tracker)  
-- Automated attendance tracking for over 50 students per session using Python with pandas and openpyxl.  
+### [Python Attendance Tracker (Work Term Initiative)](https://github.com/Michael-Khoury/Python-Attendance-Tracker)  
+- Self-initiated during a work term to streamline attendance tracking for myself, my supervisor, and future SI Leaders.  
+- Automated tracking for over 50 students per session using Python with pandas and openpyxl.  
 - Saved approximately 3–4 hours per week by eliminating manual Excel entry, reducing overall admin workload by 80%.  
 - Enabled dynamic session logging and error-proof Excel output, leading to more consistent and reliable record-keeping across the semester.
 
