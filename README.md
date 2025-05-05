@@ -38,7 +38,8 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 > _Note: This project is based on professional work and cannot be shared publicly due to confidentiality._
 
 ### [Python Attendance Tracker](https://github.com/Michael-Khoury/Python-Attendance-Tracker)  
-- Automated administrative workflows at SI Leader Job with Python using pandas and openpyxl, saving time and ensuring data integrity.  
-- Created a robust attendance tracking system integrated with Excel.  
+- Automated attendance tracking for over 50 students per session using Python with pandas and openpyxl.  
+- Saved approximately 3–4 hours per week by eliminating manual Excel entry, reducing overall admin workload by 80%.  
+- Enabled dynamic session logging and error-proof Excel output, leading to more consistent and reliable record-keeping across the semester.
 
 ---
