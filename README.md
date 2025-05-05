@@ -32,7 +32,7 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 - Features include an endless wave system, diverse enemy types with unique behaviors, and several strategically distinct towers with powerful abilities (e.g., splash damage, burn effects, curses).  
 - Includes a boss wave, main menu system, and smooth launch flow with multiple completed releases to date.  
 - Built for desktop, fully playable from a dedicated launcher with UI navigation and in-game transitions.  
-- Recognized as one of the top 2 projects in the course in the winter 2025 semester for its functionality, gameplay depth, and clean architecture.  
+- Recognized as one of the top 2 projects in the course in the Winter 2025 semester for its functionality, gameplay depth, and clean architecture.  
 > _Note: This is a private repository to protect ongoing development, with plans to continue improving and potentially market the game. A demo or walkthrough is available upon request._
 
 ### [Car UI and Proximity Sensor](https://github.com/Michael-Khoury/Car-Proximity-Sensor)  
