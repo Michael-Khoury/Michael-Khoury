@@ -27,6 +27,14 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 
 ## 🚀 Projects  
 
+### Unity Tower Defense Game (Top 2 Project – Software Design Course)  
+- Developed a polished 2D tower defense game in Unity with two teammates as part of a software design course, using C#.  
+- Features include an endless wave system, diverse enemy types with unique behaviors, and several strategically distinct towers with powerful abilities (e.g., splash damage, burn effects, curses).  
+- Includes a boss wave, main menu system, and smooth launch flow with multiple completed releases to date.  
+- Built for desktop, fully playable from a dedicated launcher with UI navigation and in-game transitions.  
+- Recognized as one of the top 2 projects in the course for its functionality, gameplay depth, and clean architecture.  
+> _Note: This is a private repository to protect ongoing development, with plans to continue improving and potentially market the game. A demo or walkthrough is available upon request._
+
 ### [Car UI and Proximity Sensor](https://github.com/Michael-Khoury/Car-Proximity-Sensor)  
 - Designed a Python-based UI mimicking modern car features with an advanced proximity sensor system using Arduino.  
 - Enhanced driver safety by integrating real-time sensor data visualization.
