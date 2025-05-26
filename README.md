@@ -47,9 +47,10 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 - Recognized as one of the top 2 projects in the course in the Winter 2025 semester for its functionality, gameplay depth, and clean architecture.  
 > _Note: This is a private repository to protect ongoing development, with plans to continue improving and potentially market the game. A demo or walkthrough is available upon request._
 
-### [Car UI and Proximity Sensor](https://github.com/Michael-Khoury/Car-Proximity-Sensor)  
+### Car UI and Proximity Sensor  
 - Designed a Python-based UI mimicking modern car features with an advanced proximity sensor system using Arduino.  
 - Enhanced driver safety by integrating real-time sensor data visualization.
+>_[Repo](https://github.com/Michael-Khoury/Car-Proximity-Sensor)
 
 ### ML Experiment Tracker (Professional Work)  
 - Developed a Python script for integrating data version control (DVC) into machine learning workflows.  
@@ -57,10 +58,11 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 - Collaborated with a research team to improve accuracy for medical imaging datasets.  
 > _Note: This project is based on professional work and cannot be shared publicly due to confidentiality._
 
-### [Python Attendance Tracker (Work Term Initiative)](https://github.com/Michael-Khoury/Python-Attendance-Tracker)  
+### Python Attendance Tracker (Work Term Initiative) 
 - Self-initiated during a work term to streamline attendance tracking for myself, my supervisor, and future SI Leaders.  
 - Automated tracking for over 50 students per session using Python with pandas and openpyxl.  
 - Saved approximately 3–4 hours per week by eliminating manual Excel entry, reducing overall admin workload by 80%.  
 - Enabled dynamic session logging and error-proof Excel output, leading to more consistent and reliable record-keeping across the semester.
+> [Repo](https://github.com/Michael-Khoury/Python-Attendance-Tracker) 
 
 ---
