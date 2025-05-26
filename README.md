@@ -3,7 +3,8 @@
 
 🌍 Based in St. John’s, NL, Canada  
 📧 [mkhoury@mun.ca](mailto:mkhoury@mun.ca)  
-🔗 [LinkedIn](www.linkedin.com/in/khoury-michael)  
+🔗 [LinkedIn](https://www.linkedin.com/in/khoury-michael)  
+🔗 [Portfolio Website](https://michael-khoury.github.io)
 
 ---
 
@@ -26,6 +27,17 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 ---
 
 ## 🚀 Projects  
+
+### [💼 Full-Stack Portfolio Website](https://michael-khoury.github.io)  
+- Built using **React.js** (with JSX) and **React Router** for multi-page navigation, deployed via **GitHub Pages**.  
+- Features scroll-aware navigation, animated typing text, scroll-triggered fade-ins, and a mobile-optimized background with flipping/repeating logic.  
+- Includes fully responsive design with modular components (`Navbar`, `Footer`, `ScrollToTop`) and dedicated pages for Projects, Work Experience, Resume (PDF viewer), and Contact.  
+- Connected to a **custom Node.js/Express.js REST API** (hosted on **Render**) which handles contact form submissions via **Nodemailer**.  
+- Backend supports optional integration with **MongoDB** and **Mongoose** (commented for flexibility).  
+> _Frontend Repo: [GitHub](https://github.com/Michael-Khoury/my-portfolio)  
+> Backend Repo: [GitHub](https://github.com/your-username/backend-repo)_ <!-- replace backend repo URL -->
+
+---
 
 ### Unity Tower Defense Game (Project – Software Design Course)  
 - Developed a polished 2D tower defense game in Unity with two teammates as part of a software design course, using C#.  
