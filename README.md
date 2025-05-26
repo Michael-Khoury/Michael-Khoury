@@ -50,7 +50,7 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 ### Car UI and Proximity Sensor  
 - Designed a Python-based UI mimicking modern car features with an advanced proximity sensor system using Arduino.  
 - Enhanced driver safety by integrating real-time sensor data visualization.
->_[Repo](https://github.com/Michael-Khoury/Car-Proximity-Sensor)
+>[Repo](https://github.com/Michael-Khoury/Car-Proximity-Sensor)
 
 ### ML Experiment Tracker (Professional Work)  
 - Developed a Python script for integrating data version control (DVC) into machine learning workflows.  
