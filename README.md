@@ -34,8 +34,8 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 - Includes fully responsive design with modular components (`Navbar`, `Footer`, `ScrollToTop`) and dedicated pages for Projects, Work Experience, Resume (PDF viewer), and Contact.  
 - Connected to a **custom Node.js/Express.js REST API** (hosted on **Render**) which handles contact form submissions via **Nodemailer**.  
 - Backend supports optional integration with **MongoDB** and **Mongoose** (commented for flexibility).  
-> _Frontend Repo: [GitHub](https://github.com/Michael-Khoury/my-portfolio)  
-> Backend Repo: [GitHub](https://github.com/your-username/backend-repo)_ <!-- replace backend repo URL -->
+> _[Frontend Repo](https://github.com/Michael-Khoury/my-portfolio)  
+> [Backend Repo](https://github.com/Michael-Khoury/contact-api)_ 
 
 ---
 
