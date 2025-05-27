@@ -2,9 +2,9 @@
 ### Aspiring Computer Engineer | AI/Machine Learning Enthusiast  
 
 🌍 Based in St. John’s, NL, Canada  
-📧 [mkhoury@mun.ca](mailto:mkhoury@mun.ca)  
-🔗 [LinkedIn](https://www.linkedin.com/in/khoury-michael)  
-🔗 [Portfolio Website](https://michael-khoury.github.io)
+[Email](mailto:mkhoury@mun.ca)  
+[LinkedIn](https://www.linkedin.com/in/khoury-michael)  
+[Portfolio Website](https://michael-khoury.github.io)
 
 ---
 
