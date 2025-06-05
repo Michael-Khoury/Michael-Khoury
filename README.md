@@ -37,8 +37,6 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 > _[Frontend Repo](https://github.com/Michael-Khoury/my-portfolio)  
 > [Backend Repo](https://github.com/Michael-Khoury/contact-api)_ 
 
----
-
 ### Unity Tower Defense Game (Project – Software Design Course)  
 - Developed a polished 2D tower defense game in Unity with two teammates as part of a software design course, using C#.  
 - Features include an endless wave system, diverse enemy types with unique behaviors, and several strategically distinct towers with powerful abilities (e.g., splash damage, burn effects, curses).  
