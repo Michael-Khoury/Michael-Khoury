@@ -14,14 +14,15 @@ I’m a fourth-year Computer Engineering student at Memorial University of Newfo
 ---
 
 ## 🛠 Skills  
-**Languages & Frameworks**:  
-- Python, C++, C, C#, VHDL, JavaScript, HTML/CSS, MATLAB, SQL, Assembly  
-
+**Languages & Scripting**:  
+- Python, C/C++, C#, VHDL, JavaScript, HTML, CSS, SQL, YAML, UML, JSON, XML, Bash, Dafny, Assembly, MATLAB
+  
 **Tools & Libraries**:  
-- Unity, Pandas, PyTorch, NumPy, Matplotlib, MLFlow, Conda, openpyxl, Git/GitHub, Zapier, YAML, JSON, ShellScripting, OpenAI, Bash, .NET  
-
+- React.js, Node.js, Express.js, .NET, Unity, PyTorch, NumPy, Pandas, Matplotlib, MLFlow, openpyxl, JSX, OpenCV, Git/GitHub, Jira/Bitbucket, Notion, Confluence, VS Code, Google CoLab, Quartus, MongoDB, Conda, Zapier, Shell/SSH, WinSCP, PuTTY
+ 
 **Specialized Knowledge**:  
-- Machine Learning, Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Workflow Automation, Unity Game Development  
+- Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Workflow Automation, Unity Game Development, REST API, Embedded & Real-time Systems, Signal & Image Processing, AI/ML, Linux, SDR, GNU Radio, Simulink
+  
 - **Unity Experience**: GameObject/Prefab architecture, Canvas UI System, Animator, 2D Physics
 
 ---
