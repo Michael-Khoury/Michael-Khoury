@@ -41,6 +41,8 @@ I enjoy building useful software, understanding how systems work, and turning id
 - Built a transaction-monitoring backend with REST APIs and SQL queries on PostgreSQL.
 - Implemented fraud-data processing with Apache Spark and AWS EC2/RDS, and tested APIs with Postman.
 
+[Repository](https://github.com/Michael-Khoury/bankmonitoring)
+
 ### Full-Stack Portfolio Website
 
 **React · JavaScript · Node.js · Express · CSS**
