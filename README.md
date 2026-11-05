@@ -4,7 +4,7 @@
 
 📍 St. John's, NL, Canada · 🎓 Graduating May 2027
 
-[Email](mailto:mkhoury@mun.ca) · [LinkedIn](https://www.linkedin.com/in/khoury-michael) · [Portfolio](https://michael-khoury.github.io)
+[Email](mailto:mkhoury@mun.ca) · [LinkedIn](https://www.linkedin.com/in/-khoury/) · [Portfolio](https://michael-khoury.github.io)
 
 ## About Me
 
