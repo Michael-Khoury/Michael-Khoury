@@ -93,15 +93,14 @@ Beyond software development, I also have experience in **digital hardware design
 
 *Academic Projects — Digital Systems (ECE 5500)*
 
-Register-Level Microcontroller Programming
+### Register-Level Microcontroller Programming
 
-AVR Assembly · ATmega32 · Embedded Systems · Hardware Interfacing
+**AVR Assembly · ATmega32 · Embedded Systems · Hardware Interfacing**
 
-Developed low-level AVR assembly programs for the ATmega32 microcontroller, configuring GPIO, hardware timers, ADC, and EEPROM through direct register manipulation.
+- Developed low-level AVR assembly programs for the **ATmega32 microcontroller**, configuring GPIO, hardware timers, ADC, and EEPROM through direct register manipulation.
+- Implemented and tested hardware-interfacing routines involving digital I/O, timer-based signal generation, ADC sampling, and EEPROM storage.
 
-Implemented and tested hardware-interfacing routines involving digital I/O, timer-based signal generation, ADC sampling, and EEPROM storage.
-
-Academic Project — Microprocessors and Microcontrollers (ECE 4500)
+*Academic Project — Microprocessors and Microcontrollers (ECE 4500)*
 
 ---
 
