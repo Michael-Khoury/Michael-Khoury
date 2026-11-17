@@ -14,6 +14,8 @@ At **Nasdaq Verafin**, I build features with **Java and React/TypeScript** for a
 
 I enjoy building useful software, understanding how systems work, and turning ideas into reliable applications. I'm interested in **2027 new-grad software engineering opportunities**.
 
+Beyond software development, I also have experience in **digital hardware design and verification**, including **VHDL, RTL development, FPGA implementation, and functional simulation**. Through my computer engineering coursework, I've designed a 16-bit processor, developed digital systems, and used VHDL testbenches to verify hardware behavior.
+
 ## 🛠 Technical Skills
 
 | Area | Technologies |
@@ -24,6 +26,7 @@ I enjoy building useful software, understanding how systems work, and turning id
 | Testing & Development | JUnit, pytest, Git/GitHub, Jenkins CI/CD, Linux, Jira, Confluence |
 | Machine Learning | PyTorch, YOLOv8, MLflow, DVC, OpenCV, NumPy, pandas |
 | Systems & Game Development | GNU Radio, SDR, signal processing, VHDL, MATLAB/Simulink, Unity |
+| Digital Hardware & Verification | VHDL/RTL, ModelSim, Intel Quartus, DE1-SoC FPGA, digital logic, FSMs, processor architecture, functional simulation, waveform analysis, directed testing |
 
 ## 💼 Experience Highlights
 
@@ -69,6 +72,26 @@ I enjoy building useful software, understanding how systems work, and turning id
 - Reduced repetitive data entry and made record-keeping more consistent for instructors and future SI Leaders.
 
 [Repository](https://github.com/Michael-Khoury/Python-Attendance-Tracker)
+
+### 16-bit Processor RTL & Hardwired Control
+
+**VHDL · RTL Design · Computer Architecture · Hardware Simulation**
+
+- Designed a **16-bit processor datapath and hardwired control architecture** with 4K × 16 memory, program counter, ALU, shared bus, and instruction decoder.
+- Implemented VHDL for memory- and register-reference instructions, including arithmetic, logical, branching, and shifting operations.
+- Developed VHDL testbenches to simulate processor execution, register updates, and control sequencing, analyzing waveforms to evaluate functionality.
+
+*Academic Project — Computer Architecture (ECE 6500)*
+
+### VHDL Digital Systems & FPGA Verification
+
+**VHDL · ModelSim · Intel Quartus · DE1-SoC FPGA**
+
+- Designed RTL modules for a **4-bit ALU, universal shift register, digital clock, and FSM-controlled arithmetic datapath**.
+- Developed VHDL testbenches and analyzed ModelSim simulation waveforms to verify digital logic and sequential behavior.
+- Synthesized and tested designs on a DE1-SoC FPGA, using directed test vectors to investigate stuck-at faults and incorrect FSM behavior.
+
+*Academic Projects — Digital Systems (ECE 5500)*
 
 ---
 
